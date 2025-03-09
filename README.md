@@ -21,6 +21,9 @@
 <a href="https://www.jenkins.io/"><img alt="Jenkins" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" width="50"/></a>
 <a href="https://github.com/allure-framework"><img alt="Allure Framework" height="50" src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4" width="50"/></a>
 <a href="https://www.atlassian.com/software/jira"><img alt="Jira" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" width="50"/></a>  
+<a href="https://developer.android.com/studio"><img alt="AndroidStudio" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Android_Studio_Logo_2024.svg/160px-Android_Studio_Logo_2024.svg.png"weight="50"/></a>
+<a href="https://www.browserstack.com/"><img alt="BrowserStack" height="50" src="https://avatars.githubusercontent.com/u/1119453?s=200&v=4"weight="40"/></a>
+<a href="https://appium.io/"><img alt="Appium" height="50" src="https://appium.io/docs/en/latest/assets/images/appium-logo-white.png"weight="40" /></a>
 </p>
 
 
