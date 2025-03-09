@@ -27,9 +27,11 @@
 ### Мои проекты по автоматизации тестирования на Java
   
 #### Проект UI автоматизации сайта [НСПК](https://www.nspk.ru/)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kirbri&repo=NSPK)](https://github.com/Kirbri/NSPK)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kirbri&repo=DiplomaWebProject)](https://github.com/Kirbri/DiplomaWebProject)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kirbri&repo=DiplomaMobileProject)](https://github.com/Kirbri/DiplomaMobileProject)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kirbri&repo=DiplomaAPIProject)](https://github.com/Kirbri/DiplomaAPIProject)
 
-  
+
 #### Вы можете связаться со мной
 - Электронная почта - Kirbri@yandex.ru  
 - Telegram - https://t.me/kirbri
