@@ -29,9 +29,13 @@
 
 ### Мои проекты по автоматизации тестирования на Java
   
-#### Проект UI автоматизации сайта [НСПК](https://www.nspk.ru/)
+#### Проект WEB UI автоматизации сайта [Авито](https://www.avito.ru/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kirbri&repo=DiplomaWebProject)](https://github.com/Kirbri/DiplomaWebProject)
+
+#### Проект MOBILE ANDROID автоматизации для приложения [Авито](https://www.avito.ru/apps)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kirbri&repo=DiplomaMobileProject)](https://github.com/Kirbri/DiplomaMobileProject)
+
+#### Проект API тестирования для сайта [restful-booker](https://restful-booker.herokuapp.com/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kirbri&repo=DiplomaAPIProject)](https://github.com/Kirbri/DiplomaAPIProject)
 
 
